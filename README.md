@@ -37,7 +37,7 @@ sudo apt-get install python
 
 Para instalar o Porn Generator, siga estas etapas:
 
-Linux, macOS e Windows:
+### Linux, macOS e Windows:
 
 Navegue até a pasta do repositório e execute:
 ```
