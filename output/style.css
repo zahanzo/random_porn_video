@@ -1,0 +1,37 @@
+* {
+    color: white;
+    background-color: black;
+}
+
+label{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+h3{
+    text-align: center;
+    color: aquamarine;
+}
+
+a{
+    text-decoration: none;
+    color: aquamarine;
+}
+
+h3:hover{
+    color: gray;
+}
+
+.center{
+    width: 100%;
+    text-align: center;
+}
+
+#btn{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+}
