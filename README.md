@@ -22,11 +22,11 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-## Windows & MAC
+### Windows & MAC
 
 * Você instalou a versão mais recente de [Python](https://www.python.org/downloads/)
 
-## Linux
+### Linux
 
 ```
 sudo apt-get install python
