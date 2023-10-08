@@ -65,9 +65,13 @@ Para escolher por categorias, utilize a caixa:
 
 <img src="image/cat.png" alt="Imagem da GUI do script">
 
+Você pode usar as categorias, e a pesquisa tanto individualmente, quanto em conjunto.
+
 E por fim, quando estiver terminado, clique no botão, e sera aberto um video aleatorio no seu navegador:
 
 <img src="image/button.png" alt="Imagem da GUI do script">
+
+Divirta-se ;D
 
 ## 📫 Contribuindo para Porn Generator
 
