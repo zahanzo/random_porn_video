@@ -1,7 +1,7 @@
 # Porn Generator
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/zahanzo/random_porn_video?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/zahanzo/random_porn_video?style=for-the-badge)
 
 <img src="image/window.png" alt="Imagem da GUI do script">
 
