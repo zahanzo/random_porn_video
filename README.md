@@ -47,21 +47,26 @@ pip install -r requirements.txt
 ## ☕ Usando Porn Generator
 
 Para usar Porn Generator, basta executa-lo da seguinte maneira:
+Navegue até o local do script, e execute:
 
 ```
 python main.py
 ```
 
 Após executar o script, está tela será aberta:
+
 <img src="image/window.png" alt="Imagem da GUI do script">
 
 Para procurar pálavras-chaves, utilize o campo de pesquisa:
+
 <img src="image/search.png" alt="Imagem da GUI do script">
 
 Para escolher por categorias, utilize a caixa:
+
 <img src="image/cat.png" alt="Imagem da GUI do script">
 
 E por fim, quando estiver terminado, clique no botão, e sera aberto um video aleatorio no seu navegador:
+
 <img src="image/button.png" alt="Imagem da GUI do script">
 
 ## 📫 Contribuindo para Porn Generator
