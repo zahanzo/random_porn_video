@@ -23,7 +23,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Você instalou a versão mais recente de `Python`
-![Python](https://www.python.org/downloads/)
+[Python](https://www.python.org/downloads/)
 
 ## 🚀 Instalando Porn Generator
 
