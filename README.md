@@ -57,7 +57,7 @@ Após executar o script, está tela será aberta:
 
 <img src="image/window.png" alt="Imagem da GUI do script">
 
-Para procurar pálavras-chaves, utilize o campo de pesquisa:
+Para procurar palavras-chaves, utilize o campo de pesquisa:
 
 <img src="image/search.png" alt="Imagem da GUI do script">
 
